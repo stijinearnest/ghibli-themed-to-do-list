@@ -1,6 +1,9 @@
 
 # Ghibli Themed To-Do List
 
+
+
+
 A simple and beautiful to-do list app inspired by the magical worlds of Studio Ghibli. Organize your tasks with a touch of whimsy and charm!
 
 ## Features
@@ -13,7 +16,8 @@ A simple and beautiful to-do list app inspired by the magical worlds of Studio G
 
 ## Demo
 
-https://github.com/user-attachments/assets/15c7c8f2-00b0-4696-ae26-e4c99bba67ed
+https://github.com/user-attachments/assets/ba62865b-9029-46e3-abc5-7d3b5da64f9f
+
 
 
 ## Getting Started

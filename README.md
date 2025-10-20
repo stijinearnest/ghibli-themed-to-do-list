@@ -1,3 +1,3 @@
 ## Screenshots
 
-![Ghibli Themed To-Do List Screenshot](assets/screenshot.png)
+![Ghibli Themed To-Do List Screenshot](assets/demo.mp4)

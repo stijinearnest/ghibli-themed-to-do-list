@@ -11,5 +11,6 @@ urlpatterns = [
     path('delete_todo/<int:srno>', views.delete_todo),
     path('edit_todo/<int:srno>', views.edit_todo, name='edit_todo'),
     path('signout/', views.signout, name='signout'),
+     path('done_todo/<int:srno>/', views.done_todo, name='done_todo'),
     
 ]

@@ -67,6 +67,16 @@ def delete_todo(request,srno):
     obj.delete()
     return redirect('/todopage')
 
+
+
+def done_todo(request, srno):
+    print(srno)
+    obj = models.TODOO.objects.get(srno=srno)
+    obj.status = True    # assuming your model has a 'status' or 'completed' field
+    obj.save()
+    return redirect('/todopage')
+
+
 @login_required(login_url='/loginn')
 def edit_todo(request, srno):
     if request.method == 'POST':
